@@ -22,6 +22,7 @@ C++ LeetCode solutions, organized by topic.
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adityasah15/neetcode-150/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -138,4 +139,5 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasah15/neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
