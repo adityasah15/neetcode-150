@@ -12,6 +12,7 @@ C++ LeetCode solutions, organized by topic.
 | [0033-search-in-rotated-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityasah15/neetcode-150/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adityasah15/neetcode-150/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/adityasah15/neetcode-150/tree/master/0073-set-matrix-zeroes) |
@@ -126,6 +127,7 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/adityasah15/neetcode-150/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
@@ -134,6 +136,7 @@ C++ LeetCode solutions, organized by topic.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adityasah15/neetcode-150/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
