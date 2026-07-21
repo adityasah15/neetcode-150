@@ -44,6 +44,7 @@ C++ LeetCode solutions, organized by topic.
 | [0189-rotate-array](https://github.com/adityasah15/neetcode-150/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/adityasah15/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/adityasah15/neetcode-150/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/adityasah15/neetcode-150/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -169,4 +170,8 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/adityasah15/neetcode-150/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/adityasah15/neetcode-150/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
