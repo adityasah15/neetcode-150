@@ -7,12 +7,10 @@ public:
             int count = 0;
             if (seen.count(num - 1))
                 continue;
-            for (int i = 0; i < seen.size(); i++) {
-                if (seen.count(num + i)) {
-                    count++;
-                } else {
-                    break;
-                }
+            int i = 0;
+            while (seen.count(num + i)) {
+                count++;
+                i++;
             }
             maxcount = max(maxcount, count);
         }
